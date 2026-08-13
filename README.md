@@ -5,4 +5,6 @@ My 1st repo
 
 2. Print Hello world
 
-3.Factorial of a number
+3.Factorial_of_a_number
+
+4.Add_two_numbers
