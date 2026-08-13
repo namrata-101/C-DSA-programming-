@@ -1,5 +1,4 @@
-# C-DSA-programming-
-My 1st repo
+# C-DSA-programming
 
 1.even_odd
 
