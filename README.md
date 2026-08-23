@@ -7,3 +7,5 @@
 3.Factorial_of_a_number
 
 4.Add_two_numbers
+
+5.greatest_among_3numbers
