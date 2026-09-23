@@ -9,3 +9,5 @@
 4.Add_two_numbers
 
 5.greatest_among_3numbers
+
+6.Reverse a Number
